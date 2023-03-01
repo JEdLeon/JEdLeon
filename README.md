@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### I'm a music lover and like meditation
+
+<hr>
+<h3>Technologies</h3>
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
