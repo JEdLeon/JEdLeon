@@ -3,7 +3,7 @@
 
 <hr>
 <h3>Technologies</h3>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="HTML_5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px" style="max-width: 100%;"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="HTML_5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px"></a>
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="CSS_3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px" style="max-width: 100%;"></a>
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" style="max-width: 100%;"></a>
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="BS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40px" style="max-width: 100%;"></a>
