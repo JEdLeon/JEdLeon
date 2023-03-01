@@ -3,6 +3,13 @@
 
 <hr>
 <h3>Technologies</h3>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="HTML_5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="40px"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="CSS_3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" widht="40px"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" widht="40px"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="BS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" widht="40px"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"><img alt="MYSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" widht="40px"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht="40px"></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" widht="40px"></a>
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
