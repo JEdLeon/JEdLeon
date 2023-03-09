@@ -10,6 +10,9 @@
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"><img alt="MYSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40px"></a>
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40px"></a>
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"></a>
+<hr>
+<h3>Subscribe to my Newsletter</h3>
+<p>¤¤ https://newsletter-heavens-hell.onrender.com/index</p>
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
