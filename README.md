@@ -13,6 +13,8 @@
 <hr>
 <h3>Subscribe to my Newsletter</h3>
 <p>¤¤ https://newsletter-heavens-hell.onrender.com/index</p>
+<h4>Or visit my web journal</h4>
+<p>¤¤https://last-web-journal.onrender.com</p>
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
