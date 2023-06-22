@@ -20,7 +20,7 @@
 <p>¤¤https://all-your-to-do-lists.onrender.com</p>
 <h4>Sing up on my Secrets Social Media and share your thoughts</h4>
 <p>¤¤https://secrets-v7cy.onrender.com</p>
-<h4>USe my Keeper App to store your notes and reminders</h4>
+<h4>Use my Keeper App to store your notes and reminders</h4>
 <p>¤¤https://keeper-app-15yt.onrender.com</p>
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
