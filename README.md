@@ -11,17 +11,7 @@
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40px"></a>
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"></a>
 <hr>
-<h3>Subscribe to my Newsletter</h3>
-<p>¤¤ https://newsletter-heavens-hell.onrender.com/index</p>
-<h4>Or visit my web journal</h4>
-<p>¤¤https://last-web-journal.onrender.com</p>
-<p>¤¤<em>(chek this updated journal too...)</em>https://updated-last-journal.onrender.com</p>
-<h4>Also you can use my personal ToDo List for your reminders</h4>
-<p>¤¤https://all-your-to-do-lists.onrender.com</p>
-<h4>Sing up on my Secrets Social Media and share your thoughts</h4>
-<p>¤¤https://secrets-v7cy.onrender.com</p>
-<h4>Use my Keeper App to store your notes and reminders</h4>
-<p>¤¤https://keeper-app-15yt.onrender.com</p>
+
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
