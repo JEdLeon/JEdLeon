@@ -12,6 +12,18 @@
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"></a>
 <hr>
 
+<h2>Render Links:</h2>
+<h3>Keeper App</h3>
+<a href="https://keeper-app-lqvk.onrender.com" target="_blank" rel="noopener noreferrer"><img alt="KeeperApp" src="https://keeper-app-lqvk.onrender.com" width="40px">https://keeper-app-lqvk.onrender.com</a>
+<h3>Mailchimp Subscription</h3>
+<a href="https://javier-mailchimp-subscribe.onrender.com" target="_blank" rel="noopener noreferrer"><img alt="KeeperApp" src="https://javier-mailchimp-subscribe.onrender.com" width="40px">https://javier-mailchimp-subscribe.onrender.com</a>
+<h3>Personal Web Journal</h3>
+<a href="https://last-web-journal.onrender.com" target="_blank" rel="noopener noreferrer"><img alt="KeeperApp" src="https://last-web-journal.onrender.com" width="40px">https://last-web-journal.onrender.com</a>
+<h3>Secrets Social Media</h3>
+<a href="https://secrets-xjt4.onrender.com" target="_blank" rel="noopener noreferrer"><img alt="KeeperApp" src="https://secrets-xjt4.onrender.com" width="40px">https://secrets-xjt4.onrender.com</a>
+<h3>ToDo's List</h3>
+<a href="https://every-to-do-list.onrender.com" target="_blank" rel="noopener noreferrer"><img alt="KeeperApp" src="https://every-to-do-list.onrender.com" width="40px">https://every-to-do-list.onrender.com</a>
+
 <!--
 **JEdLeon/JEdLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
